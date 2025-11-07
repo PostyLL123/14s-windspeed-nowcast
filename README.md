@@ -1,0 +1,1 @@
+this a project for wind speed prediction of the following 14s with a 1s interval

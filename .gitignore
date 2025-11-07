@@ -1,0 +1,8 @@
+# 忽略所有 .html 文件
+
+
+# 忽略所有 .zip 文件
+*.zip
+
+# 也可以指定全名
+# interactive_report_v2.html
